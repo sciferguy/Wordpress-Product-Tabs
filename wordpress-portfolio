@@ -1,4 +1,4 @@
-'''<?php
+```<?php
 // add this code to the functions.php file of your Theme or Child Theme
 
 /*
@@ -55,4 +55,5 @@ function custom_portfolio_categories() {
 }
 add_action( 'init', 'custom_portfolio_categories' );
 
-?>'''
+
+?>```
